@@ -1,0 +1,122 @@
+/*header*/
+header{background-image: url("img/payments-banner-graphic.png");
+        }
+
+#logo{width: 2%;}
+H1, H2{text-align: center;
+        color : white;}
+
+#name {color: white;}
+
+#account1{ background-color: white; /*create account header */
+        text-align: center;
+        border : 1px solid black;
+        border-radius: 3px;
+        margin-left: 30%;
+        margin-right: 30%;
+        color: #8484B7;
+          }
+
+#logoheader {
+  padding: 2% 0 0 2%;
+}
+
+#header-body{
+  padding: 10% 0 10% 0;
+}
+
+a:link    {
+           text-decoration:none;
+          }
+
+/*body*/
+
+/* align 3 div*/
+#quick {float: left;
+  display: inline-block;
+width: 33%;
+text-align: center;}
+
+#beautiful{
+            width: 33%;
+          display: inline-block;
+        text-align: center;}
+
+#secure{float: right;
+  display: inline-block;
+  width: 33%;
+text-align: center;}
+
+#payment{text-align: center;
+padding:3% 0 3% 0;}
+
+#dollars{color: purple;
+        font-size: 200%;
+        }
+
+#payment{
+
+  background-color: #F6F9FB;}
+
+/* footer page1*/
+#footer1 {background-color: #4C535C;
+          color :white;
+          text-align: center;
+        padding: 1% 0 1% 0;}
+
+/*Page2*/
+#picture {width: 50%;
+  float: right;
+  background-color:#7CD5EF;
+    ;}
+#contract{width: 50%;
+          }
+
+
+
+#picture1{width: 50%;}
+
+#paid{width: 50%;
+  float: right;
+    }
+#picture2{width: 50%;
+float: left;
+background-color:#8080BE;}
+
+#picture3{
+  width: 50%;
+  float: right;
+  background-color:#7CD5EF;
+}
+
+#send {width: 50%;
+float: right;}
+
+#smartpay, #bonsai_contract,#beautiful_invoice {
+  clear:both;
+}
+
+#picture img, #picture2 img, #picture3 img {
+  width:75%;
+  margin-left: 15%;
+  padding-top:2%;
+}
+
+
+#account_footer {
+  clear:both;
+  text-align: center;
+  background-color: black;
+  color:white;
+}
+
+#account2 a{ background-color:rgb(0,178,137); /*create account header */
+        text-align: center;
+        border-radius: 3px;
+        color:white;
+        padding: 1% 5% 1% 5%;
+}
+
+#account_footer p {
+  padding: 2% 0 2% 0;
+}
